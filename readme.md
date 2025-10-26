@@ -1,10 +1,9 @@
 Usage
 
 Run the script from your terminal:
-Bash
-
+```Bash
 python generate_qr.py
-
+```
 ⚙️ Customization
 
 You can customize the output by editing the variables at the beginning of the script:
