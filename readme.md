@@ -1,4 +1,4 @@
-###Usage
+### Usage
 
 Run the script from your terminal:
 ```Bash
